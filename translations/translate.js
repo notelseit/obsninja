@@ -30,6 +30,7 @@ const updateList = [
     "fr",
     "it",
     "ja",
+    "kr",
     "eu",
     "nl",
     "pig",
@@ -39,7 +40,8 @@ const updateList = [
     "ru",
     "tr",
     "uk",
-    "ar"
+    "ar",
+    "hi"
 ];
 
 // Initialize DOM selectors and defaults
